@@ -1,0 +1,47 @@
+.mainContainer{
+    background-color: rgb(253, 253, 253);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    }
+    
+.cvForm{
+    height: 725px;
+    width: 800px;
+    background-color: rgb(216, 241, 226);
+    margin: 8px;
+    padding: 5px;
+    border-radius: 2%;
+}
+
+
+.field{
+    width: 700px;
+    padding: 10px;
+   
+}
+
+input{
+width: 100%;
+font-family: inherit;
+font-size: inherit;
+padding: 10px;
+    border:0;
+    border-radius: 10px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+.birthDate{
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   }
+ 
