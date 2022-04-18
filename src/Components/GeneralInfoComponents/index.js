@@ -10,36 +10,42 @@ const GeneralInfoComponents = () => {
         <form class="cvForm">
 
           <div className="field">
-            <input type="text" placeholder="Full name" />
+            <input  type="text" placeholder="Full name" />
           </div>
           
           <div className="field">
-            <input type="text" placeholder="Phone Number" />
+            <input  type="text" placeholder="Phone Number" />
           </div>
           
 
           <div className="field">
-            <input type="text" placeholder="Email Address" />
+            <input  type="text" placeholder="Email Address" />
           </div>
           
           <div className="field">
-            <input type="text" placeholder="Residential Address" />
+            <input  type="text" placeholder="Residential Address" />
           </div>
 
+        <div className="subContainer">
+         
         <div className="birthDate">
         <input type="date"/>
-        
-
         </div>
-        </form>
 
-        <div className="navBtn">
-         <button className="btnTop1">Submit</button>
-        </div>
-        <div>
+        <div className="radioDiv">
           <input type="radio" value="Male" name="gender" /> Male
           <input type="radio" value="Female" name="gender" /> Female
           </div>
+
+        </div>
+
+        <div className="submitBtn">
+         <button className="btnBottom">Submit</button>
+        </div>
+
+          </form>
+
+         
        
        
 
