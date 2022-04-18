@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cv-project/static/css/main.5619f409.css",
+    "main.js": "/cv-project/static/js/main.3eda1068.js",
+    "static/js/787.34a20539.chunk.js": "/cv-project/static/js/787.34a20539.chunk.js",
+    "static/media/sidehustlelogo.png": "/cv-project/static/media/sidehustlelogo.cd12c7753fcc06866538.png",
+    "index.html": "/cv-project/index.html",
+    "main.5619f409.css.map": "/cv-project/static/css/main.5619f409.css.map",
+    "main.3eda1068.js.map": "/cv-project/static/js/main.3eda1068.js.map",
+    "787.34a20539.chunk.js.map": "/cv-project/static/js/787.34a20539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5619f409.css",
+    "static/js/main.3eda1068.js"
+  ]
+}
